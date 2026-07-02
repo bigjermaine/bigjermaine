@@ -13,6 +13,6 @@ iOS Ton Block Chain Winner(Saturn Badge)
 - [SwiftTracker](https://github.com/bigjermaine/BetBudd) (85⭐, 1.8k+ views) – SwiftUI project showcasing reusable, production-ready components  
 - [Water Reminder SwiftUI](https://github.com/caiobzen/water-reminder-swiftui) (256⭐, 32 forks) – Contributor, extending functionality in a popular health app  
 - [Swift Evolution](https://github.com/EVOlution-App/iOS) (262⭐, 40 forks) – Contributions shaping the future of Swift through open collaboration  
-- [Word of the Day](https://github.com/kyledold/WordOfTheDay) (92⭐, 20 forks) – Contributor to an educational SwiftUI project  
+- [Word of the Day](https://github.com/kyledold/WordOfTheDay) (92⭐, 20 forks) – Contributor to an  SwiftUI project  
 - [Coffee Ratio](https://github.com/johnmahlon/Coffee-Ratio) (96⭐, 55 forks) – Contributor, improving adoption of a widely forked Swift project  
 
